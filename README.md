@@ -1,4 +1,4 @@
-![logo](https://github.com/AYUSHAMRIT24/AYUSHAMRIT24/blob/main/Github%20images.png)
+![logo](https://github.com/AYUSHAMRIT24/AYUSHAMRIT24/blob/main/images.png)
  <h1 align="center">Hi 👋, I'm Ayush Amrit</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
